@@ -1,7 +1,7 @@
 # grud_app
 grud_app build with vuejs, materizlizecss, php, mysql 
 
-# installtion 
+# installation 
 
 make database in phpmyadmin with the  **vue_grud**
 
